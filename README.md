@@ -123,19 +123,14 @@ Please note that all slides/exams will be written in English for both Chinese an
 - [Lec11.pdf]
 - **Textbook**: Chapter 10
 
-### Week 15: Invited Talk: AI from Berkeley
+### Week 15: Maps and Hash Tables
 - Maps and Hash Tables [Lec12.pdf] and Dictionaries and Skip Lists [Lec13.pdf] (optional)
 - **Textbook**: Chapter 11
 
-### Week 16: Graphics I and Graphics II
-- [Lec14.pdf] and [Lec15.pdf] (optional)
-- **Textbook**: Chapter 14
+### Week 16: Project Demo
+location: 313/312 College of Commerce
 
-### Week 17: Project Demo (schedule) @313/312 College of Commerce
-
-### Week 18: Makeup Exam (if needed)
-
-### Week 19: Project Code and Final Report Upload
+### Week 17+18:  Final code and report uploaded
 
 ## Useful Links
 
