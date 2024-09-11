@@ -131,7 +131,7 @@ Please note that all slides/exams will be written in English for both Chinese an
 - [Lec14.pdf] and [Lec15.pdf] (optional)
 - **Textbook**: Chapter 14
 
-### Week 17: Project Demo (schedule) @313/311 College of Commerce
+### Week 17: Project Demo (schedule) @313/312 College of Commerce
 
 ### Week 18: Makeup Exam (if needed)
 
