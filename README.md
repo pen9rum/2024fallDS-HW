@@ -44,6 +44,7 @@ Both basic and advanced data structures and their related algorithms will be dis
   - Project demo in early January  
   - Including project proposal (20%), demo (40%), and implementation (40%)  
   - Teams of 3-5 students. Project details will be announced in early October.
+  - [project preview]https://github.com/YiChingLLin/2022DataStructure/tree/master/Project
   
 Please note that all slides/exams will be written in English for both Chinese and English sessions. Students are strongly encouraged to write their proposal and present their project in English.
 
@@ -55,15 +56,15 @@ Please note that all slides/exams will be written in English for both Chinese an
 
 ## Announcements
 
-- **[Article]** JAVA is one of the most popular programming languages. [Tiobe] [Career]
+- **[Article]** JAVA is one of the most popular programming languages. [Tiobe](https://www.tiobe.com/tiobe-index/) [Career](https://careerkarma.com/blog/top-programming-languages-2021/)
 - **[News]** The first lab is scheduled for Sep. 18 @ the MIS PC Classroom
-- **[Article]** Web Search Data can be a key tool!
+- **[Article]** [Web Search Data] can be a key tool!(https://www.physorg.com/news204956255.html)
 - **[News]** Eclipse has been installed in the PC and Mac Classrooms
 - **[Lab Exam]** Programming PreScreen is scheduled on Nov. 2 @ the MIS PC Classroom
 - **[Proposal]** Project proposal (due on Nov. 16) should include the following sections:
   1. Introduction / Your topic and motivation
   2. Search tricks / Your score formulation
-  3. System design / Class diagrams [proposal sample]
+  3. System design / Class diagrams [proposal sample](https://www3.nccu.edu.tw/~yuf/DBProposalExample.pdf)
   4. Schedule / How and when to accomplish stages
   5. Challenges / Techniques that you need but may have a hard time learning on your own
 
