@@ -140,11 +140,9 @@ location: 313/312 College of Commerce
 - [Java Applet Tutorial (Oracle)](https://docs.oracle.com/javase/tutorial/)
 - [Eclipse Download (official website)](https://www.eclipse.org/downloads/)
 - [An Eclipse Tutorial](https://www.eclipse.org/resources/?category=Tutorials)
-
-# Weekly Lab #
 ---
+# Weekly Lab #
 TA course announcements
-# NCCU 2024 Data Structure #
 
 Course: http://soslab.nccu.edu.tw/Courses.html
 
