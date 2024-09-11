@@ -9,7 +9,6 @@
 - Thursday 1:10-4:00pm (English Session)  
 
 **Lecture location**: Commerce Building 312/313  
-# Weekly Lab #
 **TAs**:  
 - 王瀚 Jerry Wang 111306078@nccu.edu.tw  
 - 陳卉縈 Mia Chen 112356043@nccu.edu.tw  
@@ -142,7 +141,7 @@ location: 313/312 College of Commerce
 - [Eclipse Download (official website)](https://www.eclipse.org/downloads/)
 - [An Eclipse Tutorial](https://www.eclipse.org/resources/?category=Tutorials)
 
-
+# Weekly Lab #
 ---
 TA course announcements
 # NCCU 2024 Data Structure #
