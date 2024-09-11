@@ -15,7 +15,7 @@
 - 劉亭妤 113356048@g.nccu.edu.tw  
 
 **Lab times**: Monday 12:10-2:00pm  
-**Lab location**: 逸仙樓 5F MIS PC Classroom  
+**Lab location**: 逸仙樓 5F MIS PC Classroom(0502)
 
 ## Course Topics
 
@@ -59,8 +59,8 @@ Please note that all slides/exams will be written in English for both Chinese an
 - **[News]** The first lab is scheduled for Sep. 16 @ the MIS PC Classroom
 - **[Article]** [Web Search Data] can be a key tool!(https://www.physorg.com/news204956255.html)
 - **[News]** Eclipse has been installed in the PC and Mac Classrooms
-- **[Lab Exam]** Programming PreScreen is scheduled on Nov. 2 @ the MIS PC Classroom
-- **[Proposal]** Project proposal (due on Nov. 16) should include the following sections:
+- **[Lab Exam]** Programming PreScreen is scheduled on Nov. 7 @ the MIS PC Classroom
+- **[Proposal]** Project proposal (due on Nov. 21) should include the following sections:
   1. Introduction / Your topic and motivation
   2. Search tricks / Your score formulation
   3. System design / Class diagrams [proposal sample](https://www3.nccu.edu.tw/~yuf/DBProposalExample.pdf)
@@ -86,39 +86,40 @@ Please note that all slides/exams will be written in English for both Chinese an
 - [Lec4.pdf]
 - **Textbook**: Chapter 3 and Chapter 7
 
-### Week 5: Queues and Stacks
+### Week 5: 10/10 National Day
+
+### Week 6: Queues and Stacks
 - [Lec5.pdf]
 - **Textbook**: Chapter 6
 
-### Week 6: Trees
+### Week 7: Trees
 - [Lec6.pdf]
 - **Textbook**: Chapter 8
 
-### Week 7: Binary Trees and Heaps
+### Week 8: Binary Trees and Heaps
 - [Lec7.pdf]
 - **Textbook**: Chapter 9
 
-### Week 8: Prescreen on Java Programming @ MIS PC Classroom
+### Week 9: Prescreen on Java Programming 
+- Location: 逸仙樓 5F MIS PC Classroom(0502)
 
-### Week 9: BigO, Divide and Conquer
+### Week 10: BigO, Divide and Conquer
 - [Lec8.pdf]
 - **Textbook**: Chapter 4, 5
 
-### Week 10: Merge/Quick Sort (Recurrence Equations)
+### Week 11: Merge/Quick Sort (Recurrence Equations)
 - [Lec9.pdf] (Proposal Due)
 - **Textbook**: Chapter 5, 13
 
-### Week 11: Dynamic Programming
+### Week 12: Dynamic Programming
 - [Lec10.pdf]
 - **Textbook**: Chapter 12
 
-### Week 12: Midterm Exam (9:10-12:00am / 1:10-4:00pm)
+### Week 13: Midterm Exam (9:10-12:00am / 1:10-4:00pm)
 - **Lectures**: 1-10
 - **Textbook**: Chapter 1-9, 12-13
 
-### Week 13: Midterm review
-
-### Week 14: Binary Search Trees
+### Week 14: Midterm review and Binary Search Trees
 - [Lec11.pdf]
 - **Textbook**: Chapter 10
 
@@ -128,7 +129,6 @@ Please note that all slides/exams will be written in English for both Chinese an
 - **Textbook**: Chapter 11
 
 ### Week 16: Project Demo
-location: 313/312 College of Commerce
 
 ### Week 17: makeup exam (if needed)
 
