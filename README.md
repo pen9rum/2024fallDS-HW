@@ -10,6 +10,8 @@
 
 **Lecture location**: Commerce Building 312/313  
 
+# Weekly Lab #
+2024 DS Lab Class
 **TAs**:  
 - 王瀚 Jerry Wang 111306078@nccu.edu.tw  
 - 陳卉縈 Mia Chen 112356043@nccu.edu.tw  
@@ -99,43 +101,37 @@ Please note that all slides/exams will be written in English for both Chinese an
 - [Lec7.pdf]
 - **Textbook**: Chapter 9
 
-### Week 8: Prescreen on Java Programming @ MIS PC Classroom
-
-### Week 9: BigO, Divide and Conquer
+### Week 8: BigO, Divide and Conquer
 - [Lec8.pdf]
 - **Textbook**: Chapter 4, 5
 
-### Week 10: Merge/Quick Sort (Recurrence Equations)
+### Week 9: Merge/Quick Sort (Recurrence Equations)
 - [Lec9.pdf] (Proposal Due)
 - **Textbook**: Chapter 5, 13
 
-### Week 11: Dynamic Programming
+### Week 10: Dynamic Programming
 - [Lec10.pdf]
 - **Textbook**: Chapter 12
 
-### Week 12: Midterm Exam (9:10-12:00am / 1:10-4:00pm)
+### Week 11: Midterm Exam (9:10-12:00am / 1:10-4:00pm)
 - **Lectures**: 1-10
 - **Textbook**: Chapter 1-9, 12-13
 
-### Week 13: Midterm review
+### Week 12: Midterm review 
 
-### Week 14: Binary Search Trees
+### Week 13: Binary Search Trees
 - [Lec11.pdf]
 - **Textbook**: Chapter 10
 
-### Week 15: Invited Talk: AI from Berkeley
-- Maps and Hash Tables [Lec12.pdf] and Dictionaries and Skip Lists [Lec13.pdf] (optional)
-- **Textbook**: Chapter 11
-
-### Week 16: Graphics I and Graphics II
+### Week 14: Graphics I and Graphics II
 - [Lec14.pdf] and [Lec15.pdf] (optional)
 - **Textbook**: Chapter 14
 
-### Week 17: Project Demo (schedule) @313/311 College of Commerce
+### Week 15: Project Demo (schedule) @312/313 College of Commerce
 
-### Week 18: Makeup Exam (if needed)
+### Week 16: Makeup Exam (if needed)
 
-### Week 19: Project Code and Final Report Upload
+### Week 17: Project Code and Final Report Upload
 
 ## Useful Links
 
@@ -154,11 +150,6 @@ Course: http://soslab.nccu.edu.tw/Courses.html
 Group list registration: #
 
 
-# Weekly Lab #
-
-2024 DS Lab Class
-
-MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 
 # :link: Install Instruction #
