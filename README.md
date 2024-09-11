@@ -9,7 +9,7 @@
 - Thursday 1:10-4:00pm (English Session)  
 
 **Lecture location**: Commerce Building 312/313  
-
+# Weekly Lab #
 **TAs**:  
 - 王瀚 Jerry Wang 111306078@nccu.edu.tw  
 - 陳卉縈 Mia Chen 112356043@nccu.edu.tw  
@@ -57,7 +57,7 @@ Please note that all slides/exams will be written in English for both Chinese an
 ## Announcements
 
 - **[Article]** JAVA is one of the most popular programming languages. [Tiobe](https://www.tiobe.com/tiobe-index/) [Career](https://careerkarma.com/blog/top-programming-languages-2021/)
-- **[News]** The first lab is scheduled for Sep. 18 @ the MIS PC Classroom
+- **[News]** The first lab is scheduled for Sep. 16 @ the MIS PC Classroom
 - **[Article]** [Web Search Data] can be a key tool!(https://www.physorg.com/news204956255.html)
 - **[News]** Eclipse has been installed in the PC and Mac Classrooms
 - **[Lab Exam]** Programming PreScreen is scheduled on Nov. 2 @ the MIS PC Classroom
@@ -124,13 +124,16 @@ Please note that all slides/exams will be written in English for both Chinese an
 - **Textbook**: Chapter 10
 
 ### Week 15: Maps and Hash Tables
-- Maps and Hash Tables [Lec12.pdf] and Dictionaries and Skip Lists [Lec13.pdf] (optional)
+- Maps and Hash Tables [Lec12.pdf]
+- Dictionaries and Skip Lists [Lec13.pdf] (optional)
 - **Textbook**: Chapter 11
 
 ### Week 16: Project Demo
 location: 313/312 College of Commerce
 
-### Week 17+18:  Final code and report uploaded
+### Week 17: makeup exam (if needed)
+
+### Week 18: Final code and report submission
 
 ## Useful Links
 
@@ -148,12 +151,6 @@ Course: http://soslab.nccu.edu.tw/Courses.html
 
 Group list registration: #
 
-
-# Weekly Lab #
-
-2024 DS Lab Class
-
-MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 
 # :link: Install Instruction #
