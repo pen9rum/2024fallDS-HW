@@ -13,7 +13,7 @@
 **TAs**:  
 - 王瀚 Jerry Wang 111306078@nccu.edu.tw  
 - 陳卉縈 Mia Chen 112356043@nccu.edu.tw  
-- 劉亭妤 113356048@nccu.edu.tw  
+- 劉亭妤 113356048@g.nccu.edu.tw  
 
 **Lab times**: Monday 12:10-2:00pm  
 **Lab location**: 逸仙樓 5F MIS PC Classroom  
