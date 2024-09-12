@@ -10,7 +10,7 @@
 
 **Lecture location**: Commerce Building 312/313  
 **TAs**:  
-- 王瀚 Jerry Wang 111306078@nccu.edu.tw  
+- 王瀚 Jerry Wang 111306078@g.nccu.edu.tw  
 - 陳卉縈 Mia Chen 112356043@nccu.edu.tw  
 - 劉亭妤 113356048@g.nccu.edu.tw  
 
@@ -70,7 +70,7 @@ Please note that all slides/exams will be written in English for both Chinese an
 ## Lectures/Schedules (Subject to change)
 
 ### Week 1: Get ready to programming!
-- Opening: A brief overview of Java and Eclipse [Lec0.pdf] [Lec1.pdf] [Lab 1]
+- Opening: A brief overview of Java and Eclipse [Lec0.pdf](http://soslab.nccu.edu.tw/Courses_files/Lec0.pdf) [Lec1.pdf](http://soslab.nccu.edu.tw/Courses_files/Lec1.pdf) [Lab 1](https://github.com/pen9rum/2024fallDS-HW/blob/main/lab1/hw1_20240916.pptx.pdf)
 - **Textbook**: Chapter 1
 
 ### Week 2: Introduction to object-oriented design and abstract data types
