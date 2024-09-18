@@ -8,7 +8,6 @@
 
 ---
 # Weekly Lab #
-TA course announcements
 
 **TAs**:  
 - 陳卉縈 Mia Chen 112356043@nccu.edu.tw 
