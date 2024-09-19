@@ -4,7 +4,7 @@
 
 [News] 請於9/30日前填寫分組表單[google sheet](https://docs.google.com/forms/d/1PykIHH7ztTA1COG9TKpcD_4qh8ZJWDmMJWdsCtjCMmI/viewform?hl=zh-tw&hl=zh-tw&edit_requested=true)，期限過後未分組的人將由助教隨機分組。
 
-[HW] lab1期限為9/22(日)，請於期限內繳交至moodle作業區，至於moodle尚未灌檔的同學請將程式碼寄到助教的email(劉亭妤 113356048@g.nccu.edu.tw)。
+[HW] lab1期限延長至9/26(四)。
 
 [HW] lab2已發佈，請於期限內交至moodle作業區。
 
