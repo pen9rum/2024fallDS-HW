@@ -8,6 +8,9 @@
 
 [HW] lab2已發佈，請於期限內交至moodle作業區。
 
+[HW] lab3已發佈。
+
+
 ---
 # Weekly Lab #
 
