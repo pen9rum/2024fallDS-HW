@@ -18,6 +18,7 @@
 
 **Lab times**: Monday 12:10-2:00pm  
 **Lab location**: 逸仙樓 5F MIS PC Classroom(0502)
+
 Course: http://soslab.nccu.edu.tw/Courses.html
 
 
