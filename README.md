@@ -4,9 +4,6 @@
 
 [News] 請於9/30日前填寫分組表單[google sheet](https://docs.google.com/forms/d/1PykIHH7ztTA1COG9TKpcD_4qh8ZJWDmMJWdsCtjCMmI/viewform?hl=zh-tw&hl=zh-tw&edit_requested=true)，期限過後未分組的人將由助教隨機分組。
 
-[HW] lab1期限延長至9/26(四)。
-
-[HW] lab2已發佈，請於期限內交至moodle作業區。
 
 [HW] lab3已發佈。
 
