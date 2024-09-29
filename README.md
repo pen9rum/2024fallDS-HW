@@ -2,10 +2,9 @@
 
 **Announcements**:
 
-[News] 請於9/30日前填寫分組表單[google sheet](https://docs.google.com/forms/d/1PykIHH7ztTA1COG9TKpcD_4qh8ZJWDmMJWdsCtjCMmI/viewform?hl=zh-tw&hl=zh-tw&edit_requested=true)，期限過後未分組的人將由助教隨機分組。
-
-
 [HW] lab3已發佈。
+
+[News] 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
 
 
 ---
