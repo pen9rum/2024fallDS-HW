@@ -4,11 +4,11 @@
 
 [HW] lab3已發佈。
 
-[News] 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
+**[News]** 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
 
 [Notice] 作業問題請寄信給王瀚助教或亭妤助教，記得mail domain包含g!!!
 
-[Notice] 之後作業deadline統一到隔周日，另外，繳交作業時，請各位遵循moodle公告的HW_Be Careful所寫規則。
+**[Notice]** 之後作業deadline統一到隔周日，另外，繳交作業時，請各位遵循moodle公告的HW_Be Careful所寫規則。
 
 ---
 # Weekly Lab #
