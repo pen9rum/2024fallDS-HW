@@ -4,7 +4,7 @@
 
 [HW] lab3已發佈。
 
-**[News]** [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0)
+**[News]** [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0) 請確認名字和學號是否正確，若有疑問請寄信給卉縈助教。
 
 **[News]** 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
 
