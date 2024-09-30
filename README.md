@@ -8,6 +8,8 @@
 
 [Notice] 作業問題請寄信給王瀚助教或亭妤助教，記得mail domain包含g!!!
 
+[Notice] 之後作業deadline統一到隔周日，另外，繳交作業時，請各位遵循moodle公告的HW_Be Careful所寫規則。
+
 ---
 # Weekly Lab #
 
