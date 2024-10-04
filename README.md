@@ -2,7 +2,6 @@
 
 **Announcements**:
 
-[HW] lab3已發佈。
 
 **[News]** [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0) 請確認名字和學號是否正確，若有疑問請寄信給卉縈助教。
 
