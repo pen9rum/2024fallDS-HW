@@ -2,12 +2,13 @@
 
 **Announcements**:
 
+**[News]** 10/07(一)助教課不會教授內容，但開放對作業有問題的同學來問問題。 
 
-**[News]** [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0) 請確認名字和學號是否正確，若有疑問請寄信給卉縈助教。
+[News] [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0) 請確認名字和學號是否正確，若有疑問請寄信給卉縈助教。
 
-**[News]** 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
+[News] 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
 
-**[Notice]** 繳交作業時，請各位遵循moodle公告的HW_Be Careful所寫規則，作業問題請寄信給王瀚助教或亭妤助教。
+[Notice] 繳交作業時，請各位遵循moodle公告的HW_Be Careful所寫規則，作業問題請寄信給王瀚助教或亭妤助教。
 
 ---
 # Weekly Lab #
