@@ -2,6 +2,8 @@
 
 **Announcements**:
 
+**[News]** 因颱風假導致課程延後，上機考Prescreen on Java Programming將改至11/11(一)助教課時考試，請同學務必出席。
+
 **[News]** 10/14(一)助教課正常上課，會教授基礎前後端整合(不會有作業)，請每組都至少要有一個人到。
 
 [News] [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0) 請確認名字和學號是否正確，若有疑問請寄信給卉縈助教。
