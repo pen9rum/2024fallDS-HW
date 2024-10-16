@@ -9,8 +9,22 @@ public class KeywordList {
 		
 	}
 	public void add(Keyword keyword){
-		//1. add keyword to proper index base on its count . DECENDING SORT BY COUNT AND WEIGHT
+		//add keyword to proper index base on its count . DECENDING SORT BY COUNT AND WEIGHT
 		//printKeywordList(lst) : check if elements are sorted 
+		for(int i = 0; i < lst.size(); i++){
+			Keyword k = lst.get(i);	
+			if(keyword.count >= k.count){
+				if(keyword.count > k.count) {
+					lst.add(i, keyword);
+					return;
+				}
+				else if(keyword.count == k.count && keyword.weight >= k.weight) {
+					lst.add(i, keyword);
+					return;
+				}	
+			}	
+		}
+		lst.add(keyword);
 	
 	}
 	public void outputIndex(int i){ 
@@ -26,7 +40,18 @@ public class KeywordList {
 	}
 		
 	public void outputCount(int c){
-		// 2. output all keywords whose keyword is equal to c
+		LinkedList<Keyword> results = new LinkedList<>();
+		for(int i = 0; i < lst.size(); i++){
+		    Keyword k = lst.get(i);
+		    if(k.count == c){
+		    	results.add(k);
+		    }
+		}
+		if(results.isEmpty()){
+		    System.out.println("NotFound");
+		}else{
+		    printKeywordList(results);
+		}
 	}
 	
 	public void outputHas(String pattern){
@@ -61,7 +86,7 @@ public class KeywordList {
 	}
 	
 	public void outputFirstN(int n){
-		if(n > lst.size()){
+		if(n>lst.size()){
 		    System.out.println("InvalidOperation");
 		    return;
 		}
@@ -91,24 +116,24 @@ public class KeywordList {
 	}
 
 	public void deleteCount(int c){
-		// 3. remove nodes that the count is equal to c
+		// 1. remove nodes that the count is equal to c
 		
 	}
 
 	public void deleteHas(String pattern){
-		// 4. remove nodes that the name contains input name
+		// 2. remove nodes that the name contains input name
 
 	}
 	
 	public void deleteName(String name){
-		// 5. remove nodes that the name is equal to input name
+		// 3. remove nodes that the name is equal to input name
 		
 		}
 		
 	}
 	
 	public void deleteFirstN(int n){
-		//6. remove first n nodes
+		//4. remove first n nodes
 	
 
 	}
