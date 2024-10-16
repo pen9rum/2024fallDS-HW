@@ -2,15 +2,15 @@
 
 **Announcements**:
 
-**[News]** 因颱風假導致課程延後，上機考Prescreen on Java Programming將改至11/11(一)助教課時考試，請同學務必出席。
+**[News]** Lab4已經發佈。
 
-**[News]** 10/14(一)助教課正常上課，會教授基礎前後端整合(不會有作業)，請每組都至少要有一個人到。
+**[Notice]** 繳交作業時，請各位遵循HW Be Careful所寫規則，作業問題請寄信給王瀚助教或亭妤助教。
 
-[News] [分組名單](https://docs.google.com/spreadsheets/d/14KBtZRpU0EKLtIXGMai80-G4RxqmgYnODJMDnsNN32o/edit?gid=0#gid=0) 請確認名字和學號是否正確，若有疑問請寄信給卉縈助教。
+**[Notice]** 10/21助教課會延續上週未完成的BMI on Web以及Lab4，請同學在上課前將環境安裝完成[Setup](https://hackmd.io/@TeddyAgee/Sky1YPKk1l)。
+
+[News] 因颱風假導致課程延後，上機考Prescreen on Java Programming將改至11/11(一)助教課時考試，請同學務必出席。
 
 [News] 請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
-
-[Notice] 繳交作業時，請各位遵循moodle公告的HW_Be Careful所寫規則，作業問題請寄信給王瀚助教或亭妤助教。
 
 ---
 # Weekly Lab #
