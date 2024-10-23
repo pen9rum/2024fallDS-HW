@@ -9,9 +9,14 @@ public class KeywordList {
 		
 	}
 	public void add(Keyword keyword){
-		//1. add keyword to proper index base on its count . DECENDING SORT BY COUNT AND WEIGHT
-		//printKeywordList(lst) : check if elements are sorted 
-	
+		// 1. add keyword to proper index base on its count . DECENDING SORT BY COUNT AND WEIGHT
+		// Smaller count placed in the front. If equal, smaller weight is placed in the front.
+
+		
+		
+		lst.add(keyword);
+		// printKeywordList(lst) : check if elements are sorted 
+		//	printKeywordList(lst);
 	}
 	public void outputIndex(int i){ 
 		if(i > lst.size()){
