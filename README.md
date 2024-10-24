@@ -3,6 +3,8 @@
 **Announcements**:
 
 **[Notice]** [Time Survey](https://docs.google.com/spreadsheets/d/1N_jCErrHuSaElP1GU_fX8LAEZwUKCPbpgBXDe4_X4zs/edit?usp=sharing)
+![Time Survey](https://github.com/user-attachments/assets/6a3fa493-43fa-4e5c-bef3-c3d496c2be43)
+
 
 **[News]** Lab5已發佈。
  
