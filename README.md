@@ -2,12 +2,9 @@
 
 **Announcements**:
 
-**[News]** Lab4的PDF檔有誤，已勘誤，請同學遵循更正版。
-
 **[Notice]** [Time Survey](https://docs.google.com/spreadsheets/d/1N_jCErrHuSaElP1GU_fX8LAEZwUKCPbpgBXDe4_X4zs/edit?usp=sharing)
 ![Time Survey (1)](https://github.com/user-attachments/assets/cfbd0052-ef65-4910-8829-39af4bb9214c)
 
-**[News]** Lab5已發佈。
  
 **[Notice]**  請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
 
