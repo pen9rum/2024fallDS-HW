@@ -2,11 +2,9 @@
 
 **Announcements**:
 
-**[Notice]**  請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
+[Notice]  請各組組長填寫聯絡email以及小組GitHub連結[google sheet](https://docs.google.com/forms/d/e/1FAIpQLScKtmCyykF1_LQxsbORnwSifTbm-vwSkp2yJCEkI1GCv-y-Lw/viewform)
 
 [Notice] 繳交作業時，請各位遵循HW Be Careful所寫規則，作業問題請寄信給王瀚助教或亭妤助教。
-
-[News] 因颱風假導致課程延後，上機考Prescreen on Java Programming將改至11/11(一)助教課時考試，請同學務必出席。
 
 ---
 # Weekly Lab #
