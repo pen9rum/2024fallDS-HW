@@ -21,6 +21,8 @@
 
 Course: http://soslab.nccu.edu.tw/Courses.html
 
+Course Link: https://youtube.com/playlist?list=PL8mvlT9g-6qf9Oiy1MOFnV1a-L6MNWUEX&si=9ZF3laRa15VxwuIg
+
 
 
 # :link: Install Instruction #
