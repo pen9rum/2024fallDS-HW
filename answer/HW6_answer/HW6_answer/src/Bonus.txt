@@ -1,0 +1,14 @@
+1. As a bonus, the generateChildren method searches for links on the root page and automatically adds a child for each link found. It recursively searches all the children for their children up to a certain depth.
+
+2. Furthermore, findings on subpages are weighed 60% of the parent, so the higher up the hierarchy a keyword is found, the better.
+
+Limitations:
+- It only searches for http links. The original code template can't deal with https, my extension doesn't add this functionality.
+- It ignores sites that don't load for whatever reason
+- It doesn't work with redirects => Sites that automatically redirect to their https version break the tool.
+
+Since most sites preferably use https, the effectivity of the automated search for children is quite low, but it serves as a proof of concept.
+
+
+
+AI disclosure: The Pattern matching to find http-links is generated using Claude 3.5 Sonnet
